@@ -25,6 +25,6 @@ If the vertical distance between thumb and index finger is less than 40 pixels, 
 
 # Dependencies
 
-python hand_mouse_control.py
+python mouse_click.py
 
 
